@@ -22,3 +22,6 @@ Map 10000/100000/1000000 integers, the average time result:
 Read 1 byte from file:
 ![](./images/ioread.png)
 
+## Cglib proxy VS JDK dynamic proxy
+Proxy interface based class and intercept certain method, the average time result:
+![](./images/proxy.png)
